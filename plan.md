@@ -1,0 +1,13 @@
+# trebuchet
+- Generate images and locations
+    - openGL and cpp
+    - the simulated goal is a floating hexagon
+    - randomized texture training set
+    - randomized texture validation set 
+    - randomized texture test set
+    - second test set of real images
+    - third test set with real field images? if obtainable 
+- train location estimator
+- create a classical solution that relies on the location estimator
+- create a ML solution that relies on the location estimator
+- create an end-to-end ML solution
